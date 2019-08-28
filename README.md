@@ -1,7 +1,8 @@
 # Deep Query Optimization
-This repository contains the code used for our paper
+This repository contains the code that we used for our paper:
 
 **The Case for Deep Query Optimisation**
+
 Jens Dittrich, Joris Nix
 
 Abstract:
