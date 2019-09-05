@@ -292,4 +292,6 @@ int main(int argc, char** argv) {
     }
     ofs.close();
 #undef RUN
+#undef RUN_SOG
+#undef RUN_BSG
 }
