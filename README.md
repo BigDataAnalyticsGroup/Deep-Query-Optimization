@@ -11,3 +11,6 @@ This paper presents the high-level idea of DQO using an analogy inspired from bi
 <a name="myfootnote1">1</a>: The authors apologise for using the adjective deep in a paper title, in 2019!, even though this paper has nothing to do with deep learning. We are deeply sorry.
 
 https://arxiv.org/abs/1908.08341
+
+accepted at CIDR 2020 (Conference on Innovative Data Systems Research):
+http://cidrdb.org/cidr2020/
